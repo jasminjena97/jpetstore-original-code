@@ -52,7 +52,7 @@
     <site>
       <id>maven-releases</id>
       <name>maven-releases</name>
-      <url>http://13.211.134.68:8081/repository/maven-releases/</url>
+      <url>http://3.25.210.205:8081/repository/maven-releases/</url>
     </site>
   </distributionManagement>
 
@@ -282,7 +282,7 @@
     <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
-      <url>http://13.211.134.68:8081/repository/maven-releases/</url>
+      <url>http://3.25.210.205:8081/repository/maven-releases/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
